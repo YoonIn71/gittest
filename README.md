@@ -5,3 +5,4 @@
 ```pyhton
     print('안동고등학교')
 ```
+[네이버](www.daum.net)
